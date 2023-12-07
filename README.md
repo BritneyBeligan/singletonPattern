@@ -11,3 +11,4 @@ In your solution you must provide the following in your Github link account:
   Problem statement (description of the problem. Just copy what is stated here).
   UML Class Diagram
   Uploaded java codes for the solution.
+![Screenshot 2023-12-07 215252](https://github.com/BritneyBeligan/singletonPattern/assets/142373706/f174f19a-90c7-4e5a-94f2-eef1ce4ae2a1)
